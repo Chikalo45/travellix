@@ -1,0 +1,102 @@
+.nvh{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.imag{
+    background-image: url('images/1.jpg');
+    background-color: rgba(156, 156, 230, 0.308);
+    background-size: cover;
+}
+
+.fixed-top{
+    background-color: rgba(29, 21, 100, 0.644);
+}
+
+h2{
+    font-weight: bold;
+    color: white;
+}
+
+.second{
+    background: rgb(203,181,29);
+    background: linear-gradient(58deg, rgba(203,181,29,1) 0%, rgba(98,18,74,0.9774151062697507) 54%, rgba(94,99,209,0.9942690388540204) 91%);
+}
+.sec{
+    background-color: #a81b7e;
+    font-weight: bold;
+    color: antiquewhite;
+    width: 110px;
+    margin: 1rem;
+    justify-self: center;
+    border-radius: 8px;
+}
+
+.lux{
+    font-family:cursive;
+    color: white;
+}
+.headi{
+    color: rgba(0, 0, 0, 0.829);
+}
+
+.se{
+    border-radius: 100px; 
+    background: rgb(203,181,29);
+    background: linear-gradient(58deg, rgba(203,181,29,1) 0%, rgba(98,18,74,0.9774151062697507) 54%, rgba(94,99,209,0.9942690388540204) 91%);
+    font-weight: bold;
+}
+
+.offer{
+    font-weight: bold;
+    width: 70px;
+    margin-top: -0.5rem;
+    margin-left: -0.5rem;
+}
+
+.sec3{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.fa-star{
+    color: rgba(184, 44, 184, 0.733);
+}
+.title{
+    font-weight: bold;
+}
+
+.ima{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.signup{
+    height: 100px;
+}
+
+.last{
+    margin-top: -0.5rem;
+    height: 30px;
+    font-weight: bold;
+}
+
+.last2{
+    font-family: sans-serif;
+    
+}
+
+.footer{
+    text-decoration: none;
+}
+
+
+@media screen and (max-width: 768px) {
+    .signup{
+        height: 80%;
+    }
+.last{
+    margin-top: 0.3rem;
+}
+}
